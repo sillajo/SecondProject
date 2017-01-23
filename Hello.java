@@ -1,5 +1,4 @@
 //for command line git tutorial
-//Local repository modification
 //GitHub modification
 
 
