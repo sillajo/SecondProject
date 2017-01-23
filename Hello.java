@@ -1,7 +1,5 @@
 //for command line git tutorial
 //Local repository modification
-//GitHub modification
-
 
 public class Hello{
 	public static void main(String[] args){
