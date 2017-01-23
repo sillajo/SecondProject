@@ -1,5 +1,5 @@
 //for command line git tutorial
-//GitHub modification
+//Local repository modification
 
 
 public class Hello{
